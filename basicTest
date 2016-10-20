@@ -1,0 +1,13 @@
+<!doctype html> 
+<html>
+	<head>
+		<title>Test Document</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<meta name="description" content="About the web page, this is a document where we are going to publish things that can help others to become a developer">
+		<meta name="keywords" content="Web Page, Developer, HTML, CSS, JavaScript">
+	</head>
+	<body> 
+	  <p>Just the sample Document
+	</body>
+</html>
